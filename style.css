@@ -3,35 +3,35 @@ span {
 }
 
 header {
-  text-align: center;
+
 }
 
 #bigger-paragraph {
-  font-size: 3rem;
+
 }
 
 #smaller-paragraph {
-  font-size: .8rem;
+
 }
 
 #lightblue-paragraph {
-  color: lightblue;
+
 }
 
 #green-paragraph {
-  color: green;
+
 }
 
 article {
-  display: flex;
+  /* display: flex; */
 }
 
 section {
-  text-align: justify;
-  margin: 3rem;
+  /* text-align: justify; */
+  /* margin: 3rem; */
 }
 
 img {
-  width: 25%;
-  margin: 4rem;
+  /* width: 25%; */
+  /* margin: 4rem; */
 }
