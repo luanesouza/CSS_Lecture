@@ -21,6 +21,7 @@ The alternative to that is to right click the file `index.html` and select `Copy
 
 ## Our first step is to figure out how our page will look like. aka let's create a wireframe.
 ### Phone Version
+<img src='https://i.imgur.com/WgcCYPc.png' alt='phone-version-of-wireframe' width='30%'>
 ![alt wireframe-phone-version](https://i.imgur.com/WgcCYPc.png)
 
 ### Desktop Version
