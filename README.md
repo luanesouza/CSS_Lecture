@@ -20,3 +20,9 @@ https://engageinteractive.co.uk/blog/em-vs-rem-vs-px
 The alternative to that is to right click the file `index.html` and select `Copy Full Path`. Then open your broswer and past the path on the url bar.
 
 ## Our first step is to figure out how our page will look like. aka let's create a wireframe.
+### Phone Version
+![alt wireframe-phone-version](https://i.imgur.com/WgcCYPc.png)
+
+### Desktop Version
+
+![alt wireframe-desktop-version](https://i.imgur.com/sLcnoGI.png)
