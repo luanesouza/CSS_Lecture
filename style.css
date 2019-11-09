@@ -23,5 +23,15 @@ header {
 }
 
 article {
-  
+  /* display: flex; */
+}
+
+section {
+  text-align: justify;
+  /* margin: 3rem; */
+}
+
+img {
+  width: 25%;
+  /* margin: 4rem; */
 }
