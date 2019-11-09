@@ -25,4 +25,4 @@ The alternative to that is to right click the file `index.html` and select `Copy
 <img src='https://i.imgur.com/WgcCYPc.png' alt='phone-version-of-wireframe' width='30%'>
 
 ### Desktop Version
-<img src='https://i.imgur.com/sLcnoGI.png' alt='desktop-version-wireframe' width='30%'>
+<img src='https://i.imgur.com/sLcnoGI.png' alt='desktop-version-wireframe' width='50%'>
