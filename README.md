@@ -17,7 +17,11 @@ https://engageinteractive.co.uk/blog/em-vs-rem-vs-px
 3. Your browser will not automatically refresh when you make changes to the files. You will need to refresh it manually.
 
 4. You can open an html file by cd-ing into this repo from the terminal and typing `open index.html`. This should open the file on your browser of choice.
-The alternative to that is to right click the file `index.html` and select `Copy Full Path`. Then open your broswer and past the path on the url bar.
+The alternative to that is to right click the file `index.html` and select `Copy Full Path`. Then open your browser and past the path on the url bar.
+
+5. We will be talking more about flex vs grid in class. In the meantime, please reference https://css-tricks.com/snippets/css/a-guide-to-flexbox/ for flexbox, and https://css-tricks.com/snippets/css/complete-guide-grid/ for grid.
+
+6. Learn by playing: More sources https://flexboxfroggy.com/, https://cssgridgarden.com/
 
 ## This is the wireframe
 
